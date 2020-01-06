@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="register_text">欢迎来到，立即注册</string>
+    <string name="problem">登录遇到问题</string>
+    <string name="send_veri_code">发送验证码</string>
+    <string name="quick_login">快捷登录</string>
+    <string name="foget_password">忘记密码？</string>
+</resources>
